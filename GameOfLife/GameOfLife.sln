@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLife", "GameOfLife.csproj", "{05D0358E-DD49-48E7-9B0F-C4BE72EB3B2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOfLifeTests", "..\GameOfLifeTests\GameOfLifeTests.csproj", "{7E65BEFF-0744-40C9-B924-1A2BC519E5D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A203A4E5-1132-441B-A877-59E1DE14560B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D0358E-DD49-48E7-9B0F-C4BE72EB3B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D0358E-DD49-48E7-9B0F-C4BE72EB3B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D0358E-DD49-48E7-9B0F-C4BE72EB3B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D0358E-DD49-48E7-9B0F-C4BE72EB3B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E65BEFF-0744-40C9-B924-1A2BC519E5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E65BEFF-0744-40C9-B924-1A2BC519E5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E65BEFF-0744-40C9-B924-1A2BC519E5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E65BEFF-0744-40C9-B924-1A2BC519E5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA013A1-B765-41FB-89B3-3ADA1D673460}
+	EndGlobalSection
+EndGlobal
